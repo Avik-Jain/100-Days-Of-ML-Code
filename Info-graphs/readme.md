@@ -1,0 +1,1 @@
+Each Day Infograph
