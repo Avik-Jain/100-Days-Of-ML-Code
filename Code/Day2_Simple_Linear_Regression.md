@@ -1,7 +1,11 @@
 # Simple Linear Regression
+
+
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
 </p>
+
+
 # Step 1: Data Preprocessing
 ```python
 import pandas as pd
