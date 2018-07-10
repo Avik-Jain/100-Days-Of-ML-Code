@@ -30,3 +30,7 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
 </p>
+
+## Logistic Regression | Day 5
+Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what actually Logistic Regression is and what is the math involved behind it. Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.  
+Due to less time I will now be posting a infographic on alternate days.
