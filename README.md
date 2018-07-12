@@ -36,5 +36,5 @@ Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what
 Due to less time I will now be posting a infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and has already some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
-## Implementing Logistic Regression | Day 5
+## Implementing Logistic Regression | Day 6
 Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
