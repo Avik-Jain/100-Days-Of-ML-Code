@@ -44,3 +44,9 @@ Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg">
 </p>
 
+Math Behind Logistic Regression | Day 8 
+
+#100DaysOfMLCode To clear my insights on logistic regression I was searching on the internet for some resource or article and I came across this article (https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) by Saishruthi Swaminathan. 
+
+It gives a detailed description of Logistic Regression. Do check it out.
+
