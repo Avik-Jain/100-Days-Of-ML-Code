@@ -50,4 +50,7 @@ Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/
 
 It gives a detailed description of Logistic Regression. Do check it out.
 
-## 
+## Support Vector Machines | Day 9
+Got an intution on what SVM is and how it is used to solve Classification problem.
+
+
