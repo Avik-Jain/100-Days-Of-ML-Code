@@ -53,4 +53,6 @@ It gives a detailed description of Logistic Regression. Do check it out.
 ## Support Vector Machines | Day 9
 Got an intution on what SVM is and how it is used to solve Classification problem.
 
+## SVM and KNN | Day 10
+Learned more about how SVM works and implementing the knn algorithm.
 
