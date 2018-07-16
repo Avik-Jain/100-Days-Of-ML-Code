@@ -56,3 +56,8 @@ Got an intution on what SVM is and how it is used to solve Classification proble
 ## SVM and KNN | Day 10
 Learned more about how SVM works and implementing the knn algorithm.
 
+## Implementation of K-NN | Day 11  
+
+Implemented the K-NN algorithm for classification. #100DaysOfMLCode 
+Support Vector Machine Infographic is halfway complete will update it tomorrow.
+
