@@ -61,3 +61,7 @@ Learned more about how SVM works and implementing the knn algorithm.
 Implemented the K-NN algorithm for classification. #100DaysOfMLCode 
 Support Vector Machine Infographic is halfway complete will update it tomorrow.
 
+## Support Vector Machines | Day 12
+<p align="center">
+  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg">
+</p>
