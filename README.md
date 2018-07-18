@@ -65,3 +65,8 @@ Support Vector Machine Infographic is halfway complete will update it tomorrow.
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg">
 </p>
+
+## Naive Bayes Classifier | Day 13
+
+Continuing with #100DaysOfMLCode today I went through the Naive Bayes classifier.
+I am also implementing the SVM in python using scikit-learn. Will update the code soon.
