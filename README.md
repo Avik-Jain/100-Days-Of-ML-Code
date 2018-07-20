@@ -74,3 +74,6 @@ I am also implementing the SVM in python using scikit-learn. Will update the cod
 ## Implementation of SVM | Day 14
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In scikit-learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
 Check the code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
+
+## Naive Bayes Classifier and Black Box Machine Learning | Day 15
+Learned about diffrent types of naive bayes classifer also started the lectures by [Bloomberg](https://bloomberg.github.io/foml/#home). first one in the playlist was Black Box Machine Learning. It gave the whole over view about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
