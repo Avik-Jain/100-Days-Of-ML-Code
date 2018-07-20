@@ -71,6 +71,6 @@ Support Vector Machine Infographic is halfway complete will update it tomorrow.
 Continuing with #100DaysOfMLCode today I went through the Naive Bayes classifier.
 I am also implementing the SVM in python using scikit-learn. Will update the code soon.
 
-## Implementation of SVM | Day 13
+## Implementation of SVM | Day 14
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In scikit-learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
 Check the code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
