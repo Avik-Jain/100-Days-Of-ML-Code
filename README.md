@@ -77,3 +77,8 @@ Check the code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/mast
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
 Learned about diffrent types of naive bayes classifer also started the lectures by [Bloomberg](https://bloomberg.github.io/foml/#home). first one in the playlist was Black Box Machine Learning. It gave the whole over view about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
+
+## Implemented SVM using Kernel Trick | Day 16
+Using Scikit-Learn library implemented SVM algorithm along with kernel function which maps our data points into higher dimension to find optimal hyperplane. 
+## Started Deep learning Specialization on Coursera | Day 17
+Completed the whole Week 1 and Week 2 on a single day. Learned Logistic regression as Neural Network. 
