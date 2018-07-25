@@ -80,5 +80,17 @@ Learned about diffrent types of naive bayes classifer also started the lectures 
 
 ## Implemented SVM using Kernel Trick | Day 16
 Using Scikit-Learn library implemented SVM algorithm along with kernel function which maps our data points into higher dimension to find optimal hyperplane. 
+
 ## Started Deep learning Specialization on Coursera | Day 17
 Completed the whole Week 1 and Week 2 on a single day. Learned Logistic regression as Neural Network. 
+
+## Deep learning Specialization on Coursera | Day 18
+Completed the Course 1 of the deep learning specialization. Implemented a neural net in python.
+
+## The Learning Problem , Professor Yaser Abu-Mostafa | Day 19
+Started Lecture 1 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. It was basically an intoduction to the upcoming lectures. He also explained Perceptron Algorithm.
+
+## Started Deep learning Specialization Course 2 | Day 20
+Completed the Week 1 of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.
+
+
