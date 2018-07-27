@@ -93,4 +93,9 @@ Started Lecture 1 of 18 of Caltech's Machine Learning Course - CS 156 by Profess
 ## Started Deep learning Specialization Course 2 | Day 20
 Completed the Week 1 of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.
 
+## Web Scraping | Day 21
+Watched some tutorials on how to do web scaping using Beautiful Soup in order to collect data for building a model.
+
+## Is Learning Feasible? | Day 22
+Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. Learned about Hoeffding Inequality and how it is 
 
