@@ -98,3 +98,8 @@ Watched some tutorials on how to do web scaping using Beautiful Soup in order to
 
 ## Is Learning Feasible? | Day 22
 Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. Learned about Hoeffding Inequality.
+
+## Decision Trees | Day 23
+<p align="center">
+  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023.jpg">
+</p>
