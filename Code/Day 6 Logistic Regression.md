@@ -59,7 +59,7 @@ from sklearn.linear_model import LogisticRegression
 classifier = LogisticRegression()
 classifier.fit(X_train, y_train)
 ```
-## Step 3 | Predection
+## Step 3 | Prede=iction
 
 ### Predicting the Test set results
 
@@ -67,7 +67,7 @@ classifier.fit(X_train, y_train)
 y_pred = classifier.predict(X_test)
 ```
 
-## Step 4 | Evaluating The Predection
+## Step 4 | Evaluating The Prediction
 
 We predicted the test results and now we will evaluate if our logistic regression model learned and understood correctly.
 So this confusion matrix is going to contain the correct predictions that our model made on the set as well as the incorrect predictions.
