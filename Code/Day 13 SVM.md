@@ -45,7 +45,7 @@ from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
 ```
 
-## Visualising the Training set results
+## Visualizing the Training set results
 
 ```python
 from matplotlib.colors import ListedColormap
@@ -69,7 +69,7 @@ plt.show()
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Other%20Docs/ets.png">
 </p>
 
-## Visualising the Test set results
+## Visualizing the Test set results
 ```python
 from matplotlib.colors import ListedColormap
 X_set, y_set = X_test, y_test
