@@ -45,7 +45,7 @@ y_pred = classifier.predict(X_test)
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
 ```
-### Visualising the Training set results
+### Visualizing the Training set results
 ```python
 from matplotlib.colors import ListedColormap
 X_set, y_set = X_train, y_train
@@ -64,7 +64,7 @@ plt.ylabel('Estimated Salary')
 plt.legend()
 plt.show()
 ```
-### Visualising the Test set results
+### Visualizing the Test set results
 ```python
 from matplotlib.colors import ListedColormap
 X_set, y_set = X_test, y_test
