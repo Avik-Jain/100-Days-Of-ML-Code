@@ -59,7 +59,7 @@ from sklearn.linear_model import LogisticRegression
 classifier = LogisticRegression()
 classifier.fit(X_train, y_train)
 ```
-## Step 3 | Prede=iction
+## Step 3 | Prediction
 
 ### Predicting the Test set results
 
