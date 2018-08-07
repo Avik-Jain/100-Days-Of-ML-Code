@@ -112,5 +112,5 @@ Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/mas
 
 ## Random Forests | Day 33
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023.jpg">
+  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.jpg">
 </p>
