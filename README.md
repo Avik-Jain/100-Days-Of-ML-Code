@@ -109,3 +109,8 @@ Lec 3 of Bloomberg ML course introduced some of the core concepts like input spa
 
 ## Implementing Decision Trees | Day 25
 Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md)
+
+## Random Forests | Day 33
+<p align="center">
+  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023.jpg">
+</p>
