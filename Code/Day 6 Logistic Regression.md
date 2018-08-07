@@ -14,7 +14,7 @@
 This dataset contains information of users in a social network. Those informations are the user id the gender the age and the estimated salary. A car company has just launched their brand new luxury SUV. And we're trying to see which of these users of the social network are going to buy this brand new SUV And the last column here tells If yes or no the user bought this SUV we are going to build a model that is going to predict if a user is going to buy or not the SUV based on two variables which are going to be the age and the estimated salary. So our matrix of feature is only going to be these two columns.
 We want to find some correlations between the age and the estimated salary of a user and his decision to purchase yes or no the SUV.
 
-## Step 1 | Data Pre-Processing
+## Step 1 | Data Preprocessing
 
 ### Importing the Libraries
 
@@ -59,7 +59,7 @@ from sklearn.linear_model import LogisticRegression
 classifier = LogisticRegression()
 classifier.fit(X_train, y_train)
 ```
-## Step 3 | Predection
+## Step 3 | Prediction
 
 ### Predicting the Test set results
 
@@ -67,7 +67,7 @@ classifier.fit(X_train, y_train)
 y_pred = classifier.predict(X_test)
 ```
 
-## Step 4 | Evaluating The Predection
+## Step 4 | Evaluating The Prediction
 
 We predicted the test results and now we will evaluate if our logistic regression model learned and understood correctly.
 So this confusion matrix is going to contain the correct predictions that our model made on the set as well as the incorrect predictions.
