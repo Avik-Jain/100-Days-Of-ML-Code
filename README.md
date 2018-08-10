@@ -114,6 +114,7 @@ Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/mas
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.jpg">
 </p>
-## Implementing Random Forests | Day 25
+
+## Implementing Random Forests | Day 34
 Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md)
 
