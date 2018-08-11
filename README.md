@@ -110,6 +110,45 @@ Lec 3 of Bloomberg ML course introduced some of the core concepts like input spa
 ## Implementing Decision Trees | Day 25
 Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md)
 
+## Jumped To Brush up Linear Algebra | Day 26
+Found an amazing [channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on youtube 3Blue1Brown. It has a playlist called Essence of Linear Algebra. Started off by completing 4 videos which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vectors, Linear Transformations and Matrix Multiplication. 
+
+Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+## Jumped To Brush up Linear Algebra | Day 27
+Continuing with the playlist completed Next 4 Videos discussing topics 3D Transformations, Determinants, Inverse Matrix, Column Space, Null Space and Non-Square Matrices.
+
+Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+## Jumped To Brush up Linear Algebra | Day 28
+In the playlist of 3Blue1Brown completed another 3 Videos from the essence of linear algebra. 
+Topics covered were Dot Product and Cross Product.
+
+Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+
+## Jumped To Brush up Linear Algebra | Day 29
+Completed the whole Playlist today, Videos from 12 - 14. Really an amazing playlist to refresh the concepts of Linear Algebra.
+Topics covered were the change of basis, Eigenvectors and Eigenvalues, and Abstract Vector Spaces.
+
+Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+## Essence of calculus | Day 30
+Completing the playlist - Essence of Linear Algebra by 3blue1brown a suggestion popped up by youtube regarding a series of videos again by the same channel 3Blue1Brown. Being already Impressed by the previous series on Linear algebra I dived straight into it.
+Completed about 5 videos on topics such as Derivatives, Chain Rule, Product Rule, and derivative of exponential.
+
+Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+## Essence of calculus | Day 31
+Watched 2 Videos on topic Implicit Diffrentiation and Limits from the playlist Essence of Calculus.
+
+Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+## Essence of calculus | Day 32
+Watched the remaining 4 videos covering topics Like Integration and Higher order derivatives.
+
+Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 ## Random Forests | Day 33
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.jpg">
@@ -117,4 +156,3 @@ Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/mas
 
 ## Implementing Random Forests | Day 34
 Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md)
-
