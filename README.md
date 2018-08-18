@@ -158,9 +158,9 @@ Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDM
 Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md)
 
 ## K Means Clustering | Day 43
-Moved to Unsupervised Learning and studied about Clustering. Check out the infographic.
-Working on my website check it out (avikjain.me)[avikjain.me]
-Also Found A wonderful animation that can help to easily understand K - Means Clustering (http://shabal.in/visuals/kmeans/6.html)
+Moved to Unsupervised Learning and studied about Clustering.
+Working on my website check it out [avikjain.me](avikjain.me)
+Also Found A wonderful animation that can help to easily understand K - Means Clustering [Link](http://shabal.in/visuals/kmeans/6.html)
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2043.jpg">
