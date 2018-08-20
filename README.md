@@ -163,7 +163,12 @@ Link To the [video.](https://www.youtube.com/watch?v=aircAruvnKk&t=7s)
 
 ## Gradient descent, how neural networks learn | Deep learning, chapter 2 | Day 36
 Part two of neural networks by 3Blue1Brown youtube Channel, this video explains the concepts of Gradient Descent in an interesting way. 169 Must watch and Highly Recommended.
-Check the code [here.](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+Link To the [video.](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+
+## What is backpropagation really doing? | Deep learning, chapter 3 | Day 37
+Part three of neural networks by 3Blue1Brown youtube Channel, In this video the talk is mostly about the  partial derivatives and backpropagation.
+Link To the [video.](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+
 
 ## K Means Clustering | Day 43
 Moved to Unsupervised Learning and studied about Clustering.
