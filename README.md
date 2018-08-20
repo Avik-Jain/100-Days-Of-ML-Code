@@ -157,14 +157,11 @@ Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDM
 ## Implementing Random Forests | Day 34
 Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md)
 
-## Implementing Random Forests | Day 35
-Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md)
-
-## But what *is* a Neural Network? | Deep learning, chapter 1  | Day 36
+## But what *is* a Neural Network? | Deep learning, chapter 1  | Day 35
 An Amazing Video on neural networks by 3Blue1Brown youtube Channel. This video give a good understanding of Neural Networks and uses Handwritten digit dataset for expaling the concept. 
 Link To the [video.](https://www.youtube.com/watch?v=aircAruvnKk&t=7s)
 
-## Gradient descent, how neural networks learn | Deep learning, chapter 2 | Day 37
+## Gradient descent, how neural networks learn | Deep learning, chapter 2 | Day 36
 Part two of neural networks by 3Blue1Brown youtube Channel, this video explains the concepts of Gradient Descent in an interesting way. 169 Must watch and Highly Recommended.
 Check the code [here.](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 
