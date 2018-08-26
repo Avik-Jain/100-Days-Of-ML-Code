@@ -92,6 +92,8 @@ salary_plot = -1 * (theta[0, 0] * np.array(age_plot) + b)/theta[0, 1]
 
 
 def plot_result(x, y, type='train'):
+    xlim = [-3, 3]
+    ylim = [-2.5, 3.5]
     x_positive = x[np.where(y == 1)]
     x_negative = x[np.where(y == 0)]
     fig_train = plt.figure()
@@ -99,11 +101,15 @@ def plot_result(x, y, type='train'):
     plt.xlabel('Age')
     plt.ylabel('Salary')
     plt.title('Logistic Regresstion (%s set)' % type)
+    
+    ax.plot(age_plot, salary_plot, c='r')
+    plt.fill_between(age_plot, salary_plot, ylim[-1], color='lawngreen')
+    plt.fill_between(age_plot, ylim[0], salary_plot, color='hotpink')
+
     ax.scatter(x_negative[:, 0], x_negative[:, 1], c='r', label='0')
     ax.scatter(x_positive[:, 0], x_positive[:, 1], c='g', label='1')
-    ax.set_xlim(-3, 3)
-    ax.set_ylim(-2.5, 3.5)
-    ax.plot(age_plot, salary_plot, c='r')
+    ax.set_xlim(xlim)
+    ax.set_ylim(ylim)
     plt.legend()
     plt.show()
 
