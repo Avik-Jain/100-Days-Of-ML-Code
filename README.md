@@ -169,6 +169,21 @@ Link To the [video.](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 Part three of neural networks by 3Blue1Brown youtube Channel, In this video the talk is mostly about the  partial derivatives and backpropagation.
 Link To the [video.](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 
+## Backpropagation calculus | Deep learning, chapter 4 | Day 38
+Part four of neural networks by 3Blue1Brown youtube Channel, The goal here is to represent in somewhat more formal terms the intuition for how backpropagation works and the talk is mostly about the  partial derivatives and backpropagation.
+Link To the [video.](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+
+## Deep Learning with Python, TensorFlow, and Keras tutorial | Day 39
+Link To the [video.](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+
+## Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2 | Day 40
+Link To the [video.](https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=2)
+
+## Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3 | Day 41
+Link To the [video.](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=3)
+
+## Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4 | Day 42
+Link To the [video.](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
 
 ## K Means Clustering | Day 43
 Moved to Unsupervised Learning and studied about Clustering.
