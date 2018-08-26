@@ -81,6 +81,36 @@ cm = confusion_matrix(y_test, y_pred)
 
 ## Visualization
 
+```
+import matplotlib.pyplot as plt
+
+theta = classifier.coef_
+b = classifier.intercept_
+# line equation: age * theta_1 + salary * theta2 + b = 0
+age_plot = [i/10 for i in range(-20, 20)]
+salary_plot = -1 * (theta[0, 0] * np.array(age_plot) + b)/theta[0, 1]
+
+
+def plot_result(x, y, type='train'):
+    x_positive = x[np.where(y == 1)]
+    x_negative = x[np.where(y == 0)]
+    fig_train = plt.figure()
+    ax = fig_train.add_subplot(111)
+    plt.xlabel('Age')
+    plt.ylabel('Salary')
+    plt.title('Logistic Regresstion (%s set)' % type)
+    ax.scatter(x_negative[:, 0], x_negative[:, 1], c='r', label='0')
+    ax.scatter(x_positive[:, 0], x_positive[:, 1], c='g', label='1')
+    ax.set_xlim(-3, 3)
+    ax.set_ylim(-2.5, 3.5)
+    ax.plot(age_plot, salary_plot, c='r')
+    plt.legend()
+    plt.show()
+
+
+plot_result(x_train, y_train, type="Train")
+plot_result(x_test, y_test, type="Test")
+```
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Other%20Docs/training.png">
 </p> 
