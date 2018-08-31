@@ -34,6 +34,7 @@ X_test = sc.transform(X_test)
 ```python
 from sklearn.ensemble import RandomForestClassifier
 classifier = RandomForestClassifier(n_estimators = 10, criterion = 'entropy', random_state = 0)
+#We are going to use 10 trees(n_estimators = 10)
 classifier.fit(X_train, y_train)
 ```
 ### Predicting the Test set results
@@ -43,6 +44,7 @@ y_pred = classifier.predict(X_test)
 ### Making the Confusion Matrix
 ```python
 from sklearn.metrics import confusion_matrix
+#confusion matrix is used to analyse the accuracy of the model.
 cm = confusion_matrix(y_test, y_pred)
 ```
 ### Visualising the Training set results
