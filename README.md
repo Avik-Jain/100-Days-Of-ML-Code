@@ -193,3 +193,7 @@ Also Found A wonderful animation that can help to easily understand K - Means Cl
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2043.jpg">
 </p>
+
+## K Means Clustering Implementation | Day 44
+
+## Digging Deeper |  | Day 45
