@@ -275,7 +275,4 @@ Studied about Hierarchical Clustering.
 Check out this amazing [Visualization.](https://cdn-images-1.medium.com/max/800/1*ET8kCcPpr893vNZFs8j4xg.gif)
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2054.jpg">
-</p>a
-
-## Hierarchical Clustering Implementation | Day 55
- 
+</p>
