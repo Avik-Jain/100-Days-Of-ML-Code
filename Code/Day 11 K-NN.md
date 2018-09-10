@@ -4,11 +4,11 @@
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg">
 </p>
 
-## The DataSet | Social Network 
+## The DataSet | Social Network
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Other%20Docs/data.PNG">
-</p> 
+</p>
 
 
 ## Importing the libraries
@@ -27,7 +27,7 @@ y = dataset.iloc[:, 4].values
 
 ## Splitting the dataset into the Training set and Test set
 ```python
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.25, random_state = 0)
 ```
 ## Feature Scaling

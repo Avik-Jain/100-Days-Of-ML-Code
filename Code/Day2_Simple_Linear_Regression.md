@@ -16,8 +16,8 @@ dataset = pd.read_csv('studentscores.csv')
 X = dataset.iloc[ : ,   : 1 ].values
 Y = dataset.iloc[ : , 1 ].values
 
-from sklearn.cross_validation import train_test_split
-X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, random_state = 0) 
+from sklearn.model_selection import train_test_split
+X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, random_state = 0)
 ```
 
 # Step 2: Fitting Simple Linear Regression Model to the training set
@@ -30,8 +30,8 @@ X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, rand
  ```python
  Y_pred = regressor.predict(X_test)
  ```
- 
- # Step 4: Visualization 
+
+ # Step 4: Visualization
  ## Visualising the Training results
  ```python
  plt.scatter(X_train , Y_train, color = 'red')
@@ -41,4 +41,4 @@ X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, rand
  ```python
  plt.scatter(X_test , Y_test, color = 'red')
  plt.plot(X_test , regressor.predict(X_test), color ='blue')
- ``` 
+ ```
