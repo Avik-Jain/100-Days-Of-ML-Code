@@ -276,3 +276,37 @@ Check out this amazing [Visualization.](https://cdn-images-1.medium.com/max/800/
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2054.jpg">
 </p>
+
+## Hierarchical Clustering Implementation | Day 55
+
+## Simple Linear Regression Implementation from Scratch | Day 56 - 57
+
+## Multiple Linear Regression Implementation from Scratch | Day 58 - 59
+
+## Logistic Regression Implementation from Scratch | Day 60 - 61
+
+## K Nearest Neighbours Implementation from Scratch | Day 62 - 63
+
+## Support Vector Machines Implementation from Scratch | Day 64 - 65
+
+## Desicion Trees Implementation from Scratch | Day 66 - 67
+
+## Random Forests Implementation from Scratch | Day 68 - 69
+
+## K-Means Clustering Implementation from Scratch | Day 70 - 71
+
+## Hierarchical Clustering Implementation from Scratch | Day 72 - 73
+
+## Kaggle | Day 74 - 75
+
+## Project 1 | | Day 76 - 80
+
+## Project 2 | | Day 81 - 85
+
+## Project 3 | | Day 86 - 90
+
+## Project 4 | | Day 91 - 95
+
+## Project 5 | | Day 96 - 100
+
+
