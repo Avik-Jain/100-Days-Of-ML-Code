@@ -19,10 +19,10 @@ Y = dataset.iloc[ : , 3].values
 ```
 ## Step 3: Handling the missing data
 ```python
-from sklearn.preprocessing import Imputer
-imputer = Imputer(missing_values = "NaN", strategy = "mean", axis = 0)
-imputer = imputer.fit(X[ : , 1:3])
-X[ : , 1:3] = imputer.transform(X[ : , 1:3])
+from sklearn.impute import SimpleImputer
+imp_mean = SimpleImputer(missing_values=np.nan, strategy='mean')
+imp_mean = imp_mean.fit(X[ : , 1:3])
+X[ : , 1:3] = imp_mean.transform(X[ : , 1:3])
 ```
 ## Step 4: Encoding categorical data
 ```python
