@@ -1,5 +1,7 @@
 # 100-Days-Of-ML-Code
 
+[![](https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-brightgreen.svg)](https://github.com/MLEveryday/100-Days-Of-ML-Code/blob/master/README.md)
+
 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 
 Get the datasets from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
