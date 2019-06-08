@@ -4,56 +4,88 @@
 
 Get the datasets from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
 
-## Data PreProcessing | Day 1
+|  Day  | Task   |   |  Day  | Task  |   |  Day  | Task   |   |  Day | Task  |
+|:-------:|:-:|:-:|:------:|:-:|:-:|:-------:|:-:|:-:|:-------:|:-:|
+|  Day 1  | [Data Preproccessing](#1)  |   |  Day 2 |[Simple Linear Regression](#2)   |   |  Day 3  |[Multiple Linear Regression](#3)   |   |  Day 4  |[Logistic Regression (pt1)](#4)   |
+|  Day 5  | [Logistic Regression (pt2)](#1)  |   |  Day 6 |[Logistic Regression Implementation](#6)   |   |  Day 7  |[K Nearest Neighbours](#7)   |   |  Day 8  | [Math Behind Logistic Regression](#8)  |
+|  Day 9  |   |   | Day 10 |   |   |  Day 11 |   |   |  Day 12 |   |
+|  Day 13 |   |   | Day 14 |   |   |  Day 15 |   |   |  Day 16 |   |
+|  Day 17 |   |   | Day 18 |   |   |  Day 19 |   |   |  Day 20 |   |
+|  Day 21 |   |   | Day 22 |   |   |  Day 23 |   |   |  Day 24 |   |
+| Day 25  |   |   | Day 26 |   |   |  Day 27 |   |   |  Day 28 |   |
+|  Day 29 |   |   | Day 30 |   |   |  Day 31 |   |   |  Day 32 |   |
+|  Day 33 |   |   | Day 34 |   |   |  Day 35 |   |   |  Day 36 |   |
+|  Day 37 |   |   | Day 38 |   |   |  Day 39 |   |   |  Day 40 |   |
+|  Day 41 |   |   | Day 42 |   |   | Day 43  |   |   |  Day 44 |   |
+|  Day 45 |   |   | Day 46 |   |   |  Day 47 |   |   |  Day 48 |   |
+|  Day 49 |   |   | Day 50 |   |   |  Day 51 |   |   |  Day 52 |   |
+|  Day 53 |   |   | Day 54 |   |   |  Day 55 |   |   |  Day 56 |   |
+|  Day 57 |   |   | Day 58 |   |   |  Day59  |   |   |  Day 60 |   |
+|  Day 61 |   |   | Day 62 |   |   |  Day 63 |   |   |  Day 64 |   |
+|  Day 65 |   |   | Day 66 |   |   |  Day 67 |   |   |  Day 68 |   |
+|  Day 69 |   |   | Day 70 |   |   |  Day 71 |   |   |  Day 72 |   |
+|  Day 73 |   |   | Day 74 |   |   |  Day 75 |   |   |  Day 76 |   |
+|  Day 77 |   |   | Day 78 |   |   |  Day 79 |   |   |  Day 80 |   |
+|  Day 81 |   |   | Day 82 |   |   |  Day 83 |   |   |  Day 84 |   |
+|  Day 85 |   |   | Day 86 |   |   |  Day 87 |   |   |  Day 88 |   |
+|  Day 89 |   |   | Day 90 |   |   |  Day 91 |   |   |  Day 92 |   |
+| Day 93  |   |   | Day 94 |   |   |  Day 95 |   |   |  Day 96 |   |
+|  Day 97 |   |   | Day 98 |   |   |  Day 99 |   |   | Day 100 |   |
+
+
+
+
+
+## Data PreProcessing | Day 1 <a name="1"></a>
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
 </p>
 
-## Simple Linear Regression | Day 2
+## Simple Linear Regression | Day 2 <a name="2"></a>
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
 </p>
 
-## Multiple Linear Regression | Day 3
+## Multiple Linear Regression | Day 3 <a name="3"></a>
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
 </p>
 
-## Logistic Regression | Day 4
+## Logistic Regression | Day 4 <a name="4"></a>
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
 </p>
 
-## Logistic Regression | Day 5
+## Logistic Regression | Day 5 <a name="5"></a>
 Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what Logistic Regression actually is and what is the math involved behind it. Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.  
 Due to less time I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
-## Implementing Logistic Regression | Day 6
+## Implementing Logistic Regression | Day 6 <a name="6"></a>
 Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
 
-## K Nearest Neighbours | Day 7
+## K Nearest Neighbours | Day 7 <a name="7"></a>
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg">
 </p>
 
-## Math Behind Logistic Regression | Day 8 
+## Math Behind Logistic Regression | Day 8 <a name="8"></a> 
 
 #100DaysOfMLCode To clear my insights on logistic regression I was searching on the internet for some resource or article and I came across this article (https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) by Saishruthi Swaminathan. 
 
 It gives a detailed description of Logistic Regression. Do check it out.
 
-## Support Vector Machines | Day 9
+## Support Vector Machines | Day 9 <a name="9"></a>
 Got an intution on what SVM is and how it is used to solve Classification problem.
 
-## SVM and KNN | Day 10
+## SVM and KNN | Day 10 <a name="10"></a>
 Learned more about how SVM works and implementing the K-NN algorithm.
 
 ## Implementation of K-NN | Day 11  
