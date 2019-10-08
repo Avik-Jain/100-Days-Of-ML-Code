@@ -51,6 +51,7 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 </p>
 
 ## Multiple Linear Regression | Day 3 <a name="3"></a>
+linear regression is mainly used for predicting values.
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 
 <p align="center">
@@ -58,7 +59,7 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 </p>
 
 ## Logistic Regression | Day 4 <a name="4"></a>
-
+logistic regression is used for classifiction.
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
 </p>
