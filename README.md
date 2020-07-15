@@ -32,8 +32,8 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 </p>
 
 ## Logistic Regression | Day 5
-Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what Logistic Regression actually is and what is the math involved behind it. Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.  
-Due to less time I will now be posting an infographic on alternate days.
+Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what Logistic Regression actually is and what is the math involved behind it. Learned how cost function is calculated and how to apply gradient descent algorithm to cost function to minimize the error in prediction.  
+Due to less time, I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Implementing Logistic Regression | Day 6
@@ -72,7 +72,7 @@ Continuing with #100DaysOfMLCode today I went through the Naive Bayes classifier
 I am also implementing the SVM in python using scikit-learn. Will update the code soon.
 
 ## Implementation of SVM | Day 14
-Today I implemented SVM on linearly related data. Used Scikit-Learn library. In Scikit-Learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
+Today I implemented SVM on linearly related data, used Scikit-Learn library. In Scikit-Learn, we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
 Check the code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
@@ -82,7 +82,7 @@ Learned about different types of naive bayes classifiers. Also started the lectu
 Using Scikit-Learn library implemented SVM algorithm along with kernel function which maps our data points into higher dimension to find optimal hyperplane. 
 
 ## Started Deep learning Specialization on Coursera | Day 17
-Completed the whole Week 1 and Week 2 on a single day. Learned Logistic regression as Neural Network. 
+Completed the whole Week 1 and Week 2 in a single day. Learned Logistic regression as Neural Network. 
 
 ## Deep learning Specialization on Coursera | Day 18
 Completed the Course 1 of the deep learning specialization. Implemented a neural net in python.
