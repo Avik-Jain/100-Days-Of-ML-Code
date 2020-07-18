@@ -34,7 +34,7 @@ Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 ## Logistic Regression | Day 5
 Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what Logistic Regression actually is and what is the math involved behind it. Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.  
 Due to less time I will now be posting an infographic on alternate days.
-Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
+Also if someone wants to help me out in documentaion of code and already has some experience in the field and knows Markdown for github please contact me on LinkedIn :) .
 
 ## Implementing Logistic Regression | Day 6
 Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
@@ -170,7 +170,7 @@ Part three of neural networks by 3Blue1Brown youtube channel. This video mostly 
 Link To the [video.](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 
 ## Backpropagation calculus | Deep learning, chapter 4 | Day 38
-Part four of neural networks by 3Blue1Brown youtube channel. The goal here is to represent, in somewhat more formal terms, the intuition for how backpropagation works and the video moslty discusses the partial derivatives and backpropagation.
+Part four of neural networks by 3Blue1Brown youtube channel. The goal here is to represent, in somewhat more formal terms, the intuition for how backpropagation works and the video mostly discusses the partial derivatives and backpropagation.
 Link To the [video.](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 
 ## Deep Learning with Python, TensorFlow, and Keras tutorial | Day 39
@@ -257,7 +257,7 @@ Learned about Simple Line Plots, Simple Scatter Plotsand Density and Contour Plo
 
 ## Digging Deeper | MATPLOTLIB | Day 52
 Chapter 4: Visualization with Matplotlib 
-Learned about Histograms, How to customize plot legends, colorbars, and buliding Multiple Subplots.
+Learned about Histograms, How to customize plot legends, colorbars, and building Multiple Subplots.
 <br>Links to Notebooks: 
 <br>[Histograms, Binnings, and Density](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.05-Histograms-and-Binnings.ipynb)
 <br>[Customizing Plot Legends](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.06-Customizing-Legends.ipynb)
