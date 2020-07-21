@@ -14,15 +14,15 @@ import pandas as pd
 ## Step 2: Importing dataset
 ```python
 dataset = pd.read_csv('Data.csv')
-X = dataset.iloc[ : , :-1].values
-Y = dataset.iloc[ : , 3].values
+X = dataset.iloc[ : , :-1].values            
+Y = dataset.iloc[ : , -1].values
 ```
 ## Step 3: Handling the missing data
 ```python
 from sklearn.preprocessing import Imputer
 imputer = Imputer(missing_values = "NaN", strategy = "mean", axis = 0)
-imputer = imputer.fit(X[ : , 1:3])
-X[ : , 1:3] = imputer.transform(X[ : , 1:3])
+imputer = imputer.fit(X[ : , 1:-1])
+X[ : , 1:3] = imputer.transform(X[ : , 1:-1])
 ```
 ## Step 4: Encoding categorical data
 ```python
@@ -40,7 +40,7 @@ Y =  labelencoder_Y.fit_transform(Y)
 ## Step 5: Splitting the datasets into training sets and Test sets 
 ```python
 from sklearn.cross_validation import train_test_split
-X_train, X_test, Y_train, Y_test = train_test_split( X , Y , test_size = 0.2, random_state = 0)
+X_train, X_test, Y_train, Y_test = train_test_split( X , Y , test_size = 0.2, random_state = 0)  
 ```
 
 ## Step 6: Feature Scaling
