@@ -4,136 +4,168 @@
 
 Get the datasets from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/tree/master/datasets)
 
-## Data PreProcessing | Day 1
+|  Day  | Task   |   |  Day  | Task  |   |  Day  | Task   |   |  Day | Task  |
+|:-------:|:-:|:-:|:------:|:-:|:-:|:-------:|:-:|:-:|:-------:|:-:|
+|  Day 1  | [Data Preproccessing](#1)  |   |  Day 2 |[Simple Linear Regression](#2)   |   |  Day 3  |[Multiple Linear Regression](#3)   |   |  Day 4  |[Logistic Regression (pt1)](#4)   |
+|  Day 5  | [Logistic Regression (pt2)](#1)  |   |  Day 6 |[Logistic Regression Implementation](#6)   |   |  Day 7  |[K Nearest Neighbours](#7)   |   |  Day 8  | [Math Behind Logistic Regression](#8)  |
+|  Day 9  | [Support Vector Machines](#9)  |   | Day 10 |[SVM & KNN](#10)   |   |  Day 11 |[Implementation of K-NN](#11)   |   |  Day 12 | [Support Vector Machines](#12)  |
+|  Day 13 | [Naive Bayes Classifier](#13)  |   | Day 14 |[Implementation of SVM](#14)   |   |  Day 15 |[Black Box Machine Learning](#15)   |   |  Day 16 |[SVM using Kernel Trick](#16)   |
+|  Day 17 | [](#17)  |   | Day 18 |[](#18)   |   |  Day 19 |[](#19)   |   |  Day 20 |[](#20)   |
+|  Day 21 | [](#21)  |   | Day 22 |[](#22)   |   |  Day 23 |[](#23)   |   |  Day 24 |[](#24)   |
+| Day 25  | [](#25)  |   | Day 26 |[](#26)   |   |  Day 27 |[](#27)   |   |  Day 28 |[](#28)   |
+|  Day 29 | [](#29)  |   | Day 30 |[](#30)   |   |  Day 31 |[](#31)   |   |  Day 32 |[](#32)   |
+|  Day 33 |   |   | Day 34 |   |   |  Day 35 |   |   |  Day 36 |   |
+|  Day 37 |   |   | Day 38 |   |   |  Day 39 |   |   |  Day 40 |   |
+|  Day 41 |   |   | Day 42 |   |   | Day 43  |   |   |  Day 44 |   |
+|  Day 45 |   |   | Day 46 |   |   |  Day 47 |   |   |  Day 48 |   |
+|  Day 49 |   |   | Day 50 |   |   |  Day 51 |   |   |  Day 52 |   |
+|  Day 53 |   |   | Day 54 |   |   |  Day 55 |   |   |  Day 56 |   |
+|  Day 57 |   |   | Day 58 |   |   |  Day59  |   |   |  Day 60 |   |
+|  Day 61 |   |   | Day 62 |   |   |  Day 63 |   |   |  Day 64 |   |
+|  Day 65 |   |   | Day 66 |   |   |  Day 67 |   |   |  Day 68 |   |
+|  Day 69 |   |   | Day 70 |   |   |  Day 71 |   |   |  Day 72 |   |
+|  Day 73 |   |   | Day 74 |   |   |  Day 75 |   |   |  Day 76 |   |
+|  Day 77 |   |   | Day 78 |   |   |  Day 79 |   |   |  Day 80 |   |
+|  Day 81 |   |   | Day 82 |   |   |  Day 83 |   |   |  Day 84 |   |
+|  Day 85 |   |   | Day 86 |   |   |  Day 87 |   |   |  Day 88 |   |
+|  Day 89 |   |   | Day 90 |   |   |  Day 91 |   |   |  Day 92 |   |
+| Day 93  |   |   | Day 94 |   |   |  Day 95 |   |   |  Day 96 |   |
+|  Day 97 |   |   | Day 98 |   |   |  Day 99 |   |   | Day 100 |   |
+
+
+
+
+
+## Data PreProcessing | Day 1 <a name="1"></a>
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
 </p>
 
-## Simple Linear Regression | Day 2
+## Simple Linear Regression | Day 2 <a name="2"></a>
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md).
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
 </p>
 
-## Multiple Linear Regression | Day 3
+## Multiple Linear Regression | Day 3 <a name="3"></a>
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day3_Multiple_Linear_Regression.md).
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
 </p>
 
-## Logistic Regression | Day 4
+## Logistic Regression | Day 4 <a name="4"></a>
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
 </p>
 
-## Logistic Regression | Day 5
+## Logistic Regression | Day 5 <a name="5"></a>
 Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what Logistic Regression actually is and what is the math involved behind it. Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.  
 Due to less time I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
 
-## Implementing Logistic Regression | Day 6
+## Implementing Logistic Regression | Day 6 <a name="6"></a>
 Check out the Code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%206%20Logistic%20Regression.md)
 
-## K Nearest Neighbours | Day 7
+## K Nearest Neighbours | Day 7 <a name="7"></a>
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg">
 </p>
 
-## Math Behind Logistic Regression | Day 8 
+## Math Behind Logistic Regression | Day 8 <a name="8"></a> 
 
 #100DaysOfMLCode To clear my insights on logistic regression I was searching on the internet for some resource or article and I came across this article (https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc) by Saishruthi Swaminathan. 
 
 It gives a detailed description of Logistic Regression. Do check it out.
 
-## Support Vector Machines | Day 9
+## Support Vector Machines | Day 9 <a name="9"></a>
 Got an intution on what SVM is and how it is used to solve Classification problem.
 
-## SVM and KNN | Day 10
+## SVM and KNN | Day 10 <a name="10"></a>
 Learned more about how SVM works and implementing the K-NN algorithm.
 
-## Implementation of K-NN | Day 11  
+## Implementation of K-NN | Day 11 <a name="11"></a> 
 
 Implemented the K-NN algorithm for classification. #100DaysOfMLCode 
 Support Vector Machine Infographic is halfway complete. Will update it tomorrow.
 
-## Support Vector Machines | Day 12
+## Support Vector Machines | Day 12 <a name="12"></a>
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg">
 </p>
 
-## Naive Bayes Classifier | Day 13
+## Naive Bayes Classifier | Day 13 <a name="13"></a>
 
 Continuing with #100DaysOfMLCode today I went through the Naive Bayes classifier.
 I am also implementing the SVM in python using scikit-learn. Will update the code soon.
 
-## Implementation of SVM | Day 14
+## Implementation of SVM | Day 14 <a name="14"></a>
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In Scikit-Learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
 Check the code [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2013%20SVM.md).
 
-## Naive Bayes Classifier and Black Box Machine Learning | Day 15
+## Naive Bayes Classifier and Black Box Machine Learning | Day 15 <a name="15"></a>
 Learned about different types of naive bayes classifiers. Also started the lectures by [Bloomberg](https://bloomberg.github.io/foml/#home). First one in the playlist was Black Box Machine Learning. It gives the whole overview about prediction functions, feature extraction, learning algorithms, performance evaluation, cross-validation, sample bias, nonstationarity, overfitting, and hyperparameter tuning.
 
-## Implemented SVM using Kernel Trick | Day 16
+## Implemented SVM using Kernel Trick | Day 16 <a name="16"></a>
 Using Scikit-Learn library implemented SVM algorithm along with kernel function which maps our data points into higher dimension to find optimal hyperplane. 
 
-## Started Deep learning Specialization on Coursera | Day 17
+## Started Deep learning Specialization on Coursera | Day 17 <a name="17"></a>
 Completed the whole Week 1 and Week 2 on a single day. Learned Logistic regression as Neural Network. 
 
-## Deep learning Specialization on Coursera | Day 18
+## Deep learning Specialization on Coursera | Day 18 <a name="18"></a>
 Completed the Course 1 of the deep learning specialization. Implemented a neural net in python.
 
-## The Learning Problem , Professor Yaser Abu-Mostafa | Day 19
+## The Learning Problem , Professor Yaser Abu-Mostafa | Day 19 <a name="19"></a>
 Started Lecture 1 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. It was basically an introduction to the upcoming lectures. He also explained Perceptron Algorithm.
 
-## Started Deep learning Specialization Course 2 | Day 20
+## Started Deep learning Specialization Course 2 | Day 20 <a name="20"></a>
 Completed the Week 1 of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.
 
-## Web Scraping | Day 21
+## Web Scraping | Day 21 <a name="21"></a>
 Watched some tutorials on how to do web scraping using Beautiful Soup in order to collect data for building a model.
 
-## Is Learning Feasible? | Day 22
+## Is Learning Feasible? | Day 22 <a name="22"></a>
 Lecture 2 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. Learned about Hoeffding Inequality.
 
-## Decision Trees | Day 23
+## Decision Trees | Day 23 <a name="23"></a>
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023.jpg">
 </p>
 
-## Introduction To Statistical Learning Theory | Day 24
+## Introduction To Statistical Learning Theory | Day 24 <a name="24"></a>
 Lec 3 of Bloomberg ML course introduced some of the core concepts like input space, action space, outcome space, prediction functions, loss functions, and hypothesis spaces.
 
-## Implementing Decision Trees | Day 25
+## Implementing Decision Trees | Day 25 <a name="25"></a>
 Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2025%20Decision%20Tree.md)
 
-## Jumped To Brush up Linear Algebra | Day 26
+## Jumped To Brush up Linear Algebra | Day 26 <a name="26"></a>
 Found an amazing [channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) on youtube 3Blue1Brown. It has a playlist called Essence of Linear Algebra. Started off by completing 4 videos which gave a complete overview of Vectors, Linear Combinations, Spans, Basis Vectors, Linear Transformations and Matrix Multiplication. 
 
 Link to the playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-## Jumped To Brush up Linear Algebra | Day 27
+## Jumped To Brush up Linear Algebra | Day 27 <a name="27"></a>
 Continuing with the playlist completed next 4 videos discussing topics 3D Transformations, Determinants, Inverse Matrix, Column Space, Null Space and Non-Square Matrices.
 
 Link to the playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-## Jumped To Brush up Linear Algebra | Day 28
+## Jumped To Brush up Linear Algebra | Day 28 <a name="28"></a>
 In the playlist of 3Blue1Brown completed another 3 videos from the essence of linear algebra. 
 Topics covered were Dot Product and Cross Product.
 
 Link to the playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
-## Jumped To Brush up Linear Algebra | Day 29
+## Jumped To Brush up Linear Algebra | Day 29 <a name="29"></a>
 Completed the whole playlist today, videos 12-14. Really an amazing playlist to refresh the concepts of Linear Algebra.
 Topics covered were the change of basis, Eigenvectors and Eigenvalues, and Abstract Vector Spaces.
 
 Link to the playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-## Essence of calculus | Day 30
+## Essence of calculus | Day 30 <a name="30"></a>
 Completing the playlist - Essence of Linear Algebra by 3blue1brown a suggestion popped up by youtube regarding a series of videos again by the same channel 3Blue1Brown. Being already impressed by the previous series on Linear algebra I dived straight into it.
 Completed about 5 videos on topics such as Derivatives, Chain Rule, Product Rule, and derivative of exponential.
 
