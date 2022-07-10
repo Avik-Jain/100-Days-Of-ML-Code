@@ -1,6 +1,6 @@
 # Day 41 |Convolutional Neural Networks
 ## Importing the libraries
-``
+```
 import matplotlib.pyplot as plt
 import numpy as np
 import os
