@@ -19,10 +19,10 @@ Y = dataset.iloc[ : , 3].values
 ```
 ## Step 3: Handling the missing data
 ```python
-from sklearn.preprocessing import Imputer
-imputer = Imputer(missing_values = "NaN", strategy = "mean", axis = 0)
-imputer = imputer.fit(X[ : , 1:3])
-X[ : , 1:3] = imputer.transform(X[ : , 1:3])
+from sklearn.impute import SimpleImputer
+imputer = SimpleImputer(missing_values=np.nan, strategy='mean')
+imputer = imputer.fit(X.iloc[ : , 1:3]) #Putting the missing values only in the input numerical features
+X.iloc[ : , 1:3] = imputer.transform(X.iloc[ : , 1:3])
 ```
 ## Step 4: Encoding categorical data
 ```python
@@ -39,7 +39,7 @@ Y =  labelencoder_Y.fit_transform(Y)
 ```
 ## Step 5: Splitting the datasets into training sets and Test sets 
 ```python
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 X_train, X_test, Y_train, Y_test = train_test_split( X , Y , test_size = 0.2, random_state = 0)
 ```
 
